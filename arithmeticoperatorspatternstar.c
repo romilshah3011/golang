@@ -2,6 +2,7 @@
 void main()
 {
     int i;
+    printf("roror");
     for(i=-2;i<=87;i++)
     {
         printf(" ");
